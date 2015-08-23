@@ -1,4 +1,4 @@
-library(RCurl)
+library(RCurl) 
 
 # Merge the training and the test sets
 x.train <- read.table('./UCI HAR Dataset/train/X_train.txt')
